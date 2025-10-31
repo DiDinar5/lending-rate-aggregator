@@ -1,0 +1,1 @@
+Lending rate aggregator. Shows the best loan and deposit rates for each asset.
